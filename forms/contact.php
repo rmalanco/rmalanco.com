@@ -1,7 +1,7 @@
 <?php
-require "../assets/vendor/PHPMailer/Exception.php";
-require "../assets/vendor/PHPMailer/PHPMailer.php";
-require "../assets/vendor/PHPMailer/SMTP.php";
+require "assets/vendor/PHPMailer/Exception.php";
+require "assets/vendor/PHPMailer/PHPMailer.php";
+require "assets/vendor/PHPMailer/SMTP.php";
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
